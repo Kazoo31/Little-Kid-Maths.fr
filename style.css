@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Bebas+Neue&family=Fredoka+One&family=Press+Start+2P&family=Shizuru&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@100&family=Bowlby+One+SC&family=Oswald:wght@200&family=Playball&family=Press+Start+2P&family=Roboto:wght@100&family=Source+Sans+Pro:wght@200&family=Spline+Sans:wght@300&display=swap');
+body{
+	margin : 0;
+	padding : 0;
+	background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+                  url("../../media/examples/lizard.png");
+
+}
+.h22:hover{
+	
+	font-size:45px;
+	border-radius: 40px;
+	transition:1s;
+	background-color: #6173FA;
+	box-shadow: 0px 0px 30px 3px #6173FA;
+	
+}
+.h23:hover{
+	
+	font-size:45px;
+	border-radius:40px;
+	transition:1s;
+	background-color: #FF0000;
+	box-shadow: 0px 0px 30px 3px #8C1308;
+	
+	
+}
+.h24:hover{
+	
+
+	font-size:45px;
+	border-radius:40px;
+	transition:1s;
+	background-color: #704C9C;
+	box-shadow: 0px 0px 30px 3px #704C9C;
+	
+	
+}
+.h25:hover{
+	
+	font-size:45px;
+	border-radius: 40px;
+	transition:1s;
+	background-color: #F2D027;
+	box-shadow: 0px 0px 30px 3px #F2D027;
+	
+	
+}
+.h22{
+	font-size:40px;
+	text-align:center;
+	border: 4mm ridge;
+	text-align:center;
+	font-family: 'Fredoka One', cursive;
+	margin-left: auto;
+	margin-right:auto;
+	cursor: pointer;
+	border-width: 5px;
+	border-radius: 10px;
+	margin-top: 50px;
+	border-color: #222222;
+	color: black;
+	text-decoration:underline black;
+	width: 40%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	transition:0.5s;
+	text-decoration: none;
+
+	
+	
+}
+.h23{
+	font-size:40px;
+	text-align:center;
+	border: 4mm ridge;
+	text-align:center;
+	font-family: 'Fredoka One', cursive;
+	cursor: pointer;
+	border-width: 5px;
+	border-radius: 10px;
+	margin-top: 50px;
+	border-color: #222222;
+	color: black;
+	text-decoration:underline black;
+	width: 40%;
+	margin-left: auto;
+	margin-right:auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	transition:0.5s;
+	text-decoration: none;	
+}
+.h24{
+	font-size:40px;
+	text-align:center;
+	border: 4mm ridge;
+	text-align:center;
+	font-family: 'Fredoka One', cursive;
+	margin-left: auto;
+	margin-right:auto;
+	cursor: pointer;
+	border-width: 5px;
+	border-radius: 10px;
+	margin-top: 50px;
+	border-color: #222222;
+	color: black;
+	text-decoration:underline black;
+	width: 40%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	transition:0.5s	;
+	text-decoration: none;
+	
+}
+.h25{
+	font-size:40px;
+	text-align:center;
+	border: 4mm ridge;
+	text-align:center;
+	font-family: 'Fredoka One', cursive;
+	cursor: pointer;
+	border-width: 5px;
+	border-radius: 10px;
+	border-color: #222222;
+	color: black;
+	text-decoration: underline black;
+	width: 40%;
+	margin-left: auto;
+	margin-right:auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	transition:0.5s;
+	text-decoration: none;
+
+
+}
+
+#dessousdepage{
+	background: #222222;
+	color: whitesmoke;
+	font-family: Georgia, serif;
+	float: none;
+	font-size: small;
+	text-align: center; 
+	margin-bottom: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-bottom:10px;
+	padding-top:5px;
+	box-shadow: 0px 0px 20px 2px black;
+}
+#bienvenue{
+	text-align: center;
+	margin-left: auto;
+	margin-right:auto;
+	font-family: 'Fredoka One', cursive;
+	font-size: 35px;
+	border: #99BFB3 solid;
+	margin-top:50px;
+	margin-bottom: 50px;
+
+}
+.choix{
+	font-family: 'Fredoka One', cursive;
+	font-size: 30px;
+	color:black;
+	text-decoration: underline 5px black;
+	text-align: center;
+	
+}
+	
+
+.tetedepage{
+
+	text-align: center; 
+	background: linear-gradient(#72C1F2,#FBF37C);
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:0px;
+	font-size:60px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+	box-shadow:0px 0px 20px 2px #222222; 
+}
+.gigachad{
+	margin-left:200px;
+	margin-right:200px;
+	padding-bottom:10px;
+	padding-left:10px;
+	padding-right:10px;
+	background-image: url("board.jpg");
+	margin-top:10px;
+	padding-top:10px;
+	margin-bottom:10px;
+	box-shadow: 0px 0px 16px 1px black;
+}
+/* Ici c'est la responsive */
+@media screen and (max-width: 750px){
+}
+	
+.gigachad{
+	width:auto;
+	
+}
+
+

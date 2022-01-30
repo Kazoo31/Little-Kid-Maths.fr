@@ -1,0 +1,257 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Bebas+Neue&family=Fredoka+One&family=Press+Start+2P&family=Shizuru&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@100&family=Bowlby+One+SC&family=Oswald:wght@200&family=Playball&family=Press+Start+2P&family=Roboto:wght@100&family=Source+Sans+Pro:wght@200&family=Spline+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Roboto+Slab&display=swap');
+
+#addition{
+	color: black;
+	background-color:#6173FA ;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: 'Bowlby One SC', cursive;
+	font-size: 70px;
+	margin-top: 5px;
+	box-shadow: 0px 0px 20px 2px #6173FA;
+	border: 1px solid #F2F2F2; 
+}
+#soustraction{
+	color: black;
+	background-color:#FF0000 ;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: 'Bowlby One SC', cursive;
+	font-size: 70px;
+	margin-top: 5px;
+	box-shadow: 0px 0px 20px 2px #FF0000;
+	border: 1px solid #F2F2F2; 
+}
+#multiplication{
+	color: black;
+	background-color:#704C9C ;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: 'Bowlby One SC', cursive;
+	font-size: 70px;
+	margin-top: 5px;
+	box-shadow: 0px 0px 20px 2px #704C9C;
+	border: 1px solid #F2F2F2; 
+}
+#division{
+	color:black;
+	background-color:#F2D027 ;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: 'Bowlby One SC', cursive;
+	font-size: 70px;
+	margin-top: 5px;
+	box-shadow: 0px 0px 20px 2px #F2D027;
+	border: 1px solid #F2F2F2; 
+}
+
+.fond{
+	background-color:#F2F2F2;
+}
+.lecon{
+	font-family: 'Playball', cursive;
+	font-size: 55px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid #262626;
+	color:#37B843 ;
+	background-color:#D2D7D9;
+	box-shadow: 0px 0px 16px 1px #262626;
+
+}
+.exercice{
+	font-family: 'Playball', cursive;
+	font-size: 55px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid #262626;
+	color: #D43B28;
+	background-color: #D2D7D9;
+	box-shadow: 0px 0px 16px 1px #262626;
+
+}
+.lesson{
+	font-family: 'Roboto Slab', serif;
+	font-size: 35px;
+	color: #F21B2D;
+}
+#exemple1{
+	margin-right: auto;
+	margin-left: auto;
+}
+.ex{
+	text-decoration: underline;
+	background-color: yellow;
+	color: black;
+	font-size:45px; 
+	font-family: 'Roboto Slab', serif;
+}
+.ATT{
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+}
+.result{
+	color: black;
+	background-color: yellow;
+}
+.mini{
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+.av{
+	font-family: font-family: 'Oswald', sans-serif;
+	color: darkblue;
+	font-size: 35px;
+}
+.level{
+	font-family: 'Playball', cursive;
+	font-size: 40px;
+	text-decoration: underline;
+	background-color: #D2D7D9;	box-shadow: 0px 0px 16px 1px #262626;
+	border: solid #262626;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width: 70%;
+	padding-left:100px;
+	padding-right:100px;
+}
+.corrigé{
+	cursor: pointer;
+	font-family: 'Mochiy Pop P One', sans-serif;
+	font-size: 30px;
+	text-align: center;
+	margin-left:auto;
+	margin-right:auto;
+	transition:0.5s;
+	padding-left:10px;
+	padding-right:10px;
+	width:50%;
+	text-decoration:underline black;
+	text-decoration:none;
+	border: solid black;
+	border-radius: 10px;
+	width:50% ;
+	color: black;
+	background-color: #D2D7D9;
+}
+.corrigé:hover{
+	transition: 0.5s;
+	text-decoration:none;
+	font-size: 35px;
+	border-radius: 30px;
+	box-shadow: 0px 0px 16px 1px #88DB95;
+
+}
+.exos{
+	font-family: 'Spline Sans', sans-serif;
+	font-size: 30px;
+	color: #F21B2D;
+	text-align:center;
+	text-shadow:0px 0px 16px 3px #F21B2D;
+}
+.titlecorrection{
+	font-family: 'Playball', cursive;
+	font-size: 55px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid #262626;
+	color: #88DB95;
+	background-color: #D2D7D9;
+	box-shadow: 0px 0px 25px 2px #88DB95;
+	margin-top: 0px;
+
+}
+.bodycorrection{
+	margin-top:5px;
+	margin-bottom: auto;
+	font-size: 30px;
+}
+.retour{
+	font-family: 'Mochiy Pop P One', sans-serif;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 30px;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: underline black;
+	text-decoration: none;
+	transition: 0.5s;
+	border: solid black;
+	border-radius: 10px;
+	width:50% ;
+	color: black;
+	background-color: #D2D7D9;
+	
+}
+
+.télé{
+	margin-right: auto;
+	margin-left: auto;
+	font-family: 'Mochiy Pop P One', sans-serif;
+	font-size: 30px;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: underline black;
+	text-decoration: none;
+	transition: 0.5s;
+	border: solid black;
+	border-radius: 10px;
+	width:50% ;
+	color: black;
+	background-color: #D2D7D9;
+
+
+
+}
+.accueil{
+	font-size: 30px;
+	border: solid black;
+	border-radius: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	cursor: pointer;
+	font-family: 'Mochiy Pop P One', sans-serif;
+	text-decoration: underline black;
+	text-decoration: none;
+	transition: 0.5s;
+	width:50% ;
+	color: black;
+	background-color: #D2D7D9;
+}
+.retour:hover{
+	transition: 0.5s;
+	text-decoration:none;
+	font-size: 35px;
+	border-radius: 30px;
+	box-shadow: 0px 0px 16px 1px #F23545;
+}
+.télé:hover{
+	transition: 0.5s;
+	text-decoration:none;
+	font-size: 35px;
+	border-radius: 30px;
+	box-shadow: 0px 0px 16px 1px #D96704;
+}
+.accueil:hover{
+	transition: 0.5s;
+	text-decoration:none;
+	font-size: 35px;
+	border-radius: 30px;
+	box-shadow: 0px 0px 16px 1px #72C1F2;
+}
+.tat{
+	color: #88DB95;
+}
